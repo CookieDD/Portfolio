@@ -7,3 +7,5 @@ Used framer-motion to realise the animation effects on the cards, used react-scr
 Used swiper to realise the slide show effect, emailJS for the email funcionality in Contact section.
 
 Inspired by and followed the steps from the YouTube channel ZAINKEEPSCODE;
+
+Deployed through Netlify: https://subtle-elf-a84ee7.netlify.app
