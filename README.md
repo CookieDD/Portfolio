@@ -1,4 +1,4 @@
-A portfolio build from React.
+A self-intro webpage build from React.
 
 Used useContext hook method to deal with the state change, in order to change the theme(between dark and light);
 
